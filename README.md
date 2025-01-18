@@ -135,12 +135,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anas-Majeed1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Majeed1&theme=dark&v=1" height="220" alt="streak graph" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Anas-Majeed1/Anas-Majeed1/output/snake.svg" alt="Snake animation" />
 
 ###
 
