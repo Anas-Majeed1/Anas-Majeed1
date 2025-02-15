@@ -27,9 +27,9 @@
 
 ###
 
-<h1 align="center">Hey there 👋 Anas Here</h1>
+<h1 align="center">Hey there 👋 </h1>
 
-<h3 align="center">Programmer | AI/ML Enthusiast | Full Stack Mobile & Web Developer | Digital Marketer</h3>
+<h3 align="center">Programmer | ML Engineer | Full Stack Mobile & Web Developer | Digital Marketer</h3>
 
 ###
 
