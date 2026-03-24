@@ -126,14 +126,6 @@ class AnasMajeed:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anas-Majeed1&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
