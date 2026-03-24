@@ -1,165 +1,151 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHliMWhjdzNra3VvMWpuaXh5YW9ueDhxeHByNmExdDZqdG1mZjBxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anas%20Majeed&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%7C%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18&animation=fadeIn"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;CS+Undergrad+%40+UOG+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/anasmajeed0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/anas.majeed1" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:anasmajeed2627@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.leetcode.com/anasmajeed2627" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Anas-Majeed1&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anasmajeed0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/anas.majeed1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="mailto:anasmajeed2627@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.leetcode.com/anasmajeed2627" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
-  </a>
-</div>
+## 🧠 About Me
 
-###
+```python
+class AnasMajeed:
+    def __init__(self):
+        self.name       = "Anas Majeed"
+        self.university = "University of Gujrat (UOG)"
+        self.degree     = "BS Computer Science"
+        self.roles      = ["ML Engineer", "Full Stack Developer", "Mobile Developer"]
+        self.focus      = ["Deep Learning", "Generative AI", "Scalable Web Apps"]
+        self.hobbies    = ["Movies 🎬", "Self-improvement Books 📚", "Competitive Programming 💡"]
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Anas-Majeed1/count.svg?" />
-</div>
+    def current_mission(self):
+        return "Building AI-powered products that solve real-world problems."
+```
 
-###
+---
 
-<h1 align="center">Hey there 👋 </h1>
+## 🚀 Tech Stack
 
-<h3 align="center">Programmer | ML Engineer | Full Stack Mobile & Web Developer | Digital Marketer</h3>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">I'm a CS undergrad @ UOG<br><br>- 🌱 I’m currently learning: Advanced Machine and Deep Learning<br>- 💬 Ask me about: AI/ML and Full Stack Development<br>- ⚡ In my free time, I watch movies and read self-improvement books</p>
-
-###
-
-<h3 align="left">💻 Languages</h3>
-
-###
-
+### 💬 Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </div>
 
-###
-
-<h3 align="left">👨‍💻 Development Stack</h3>
-
-###
-
+### 🌐 Frontend & Mobile
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React and React Native"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="NodeJS"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" title="Express"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" title="Android"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostGre SQL"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" title="dotNet"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" title="Firebase" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
-###
-
-<h3 align="left">🤖 AI/ML</h3>
-
-###
-
+### ⚙️ Backend & Databases
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" title="OpenCV" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" title="Seaborn" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" title="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
-###
-
-<h3 align="left">🛠️ Tools</h3>
-
-###
-
+### 🤖 AI / Machine Learning
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Visual Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" title="Anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" title="PyCharm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="Jupyter Notebook" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studio"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git"  />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-46929A?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-###
+### 🛠️ Tools & Environments
+<div align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Majeed1&theme=dark&v=1" height="220" alt="streak graph" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Majeed1&theme=tokyonight&hide_border=true&border_radius=10" height="195" alt="Streak Stats"/>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Majeed1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anas-Majeed1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="195" alt="Top Languages"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anas-Majeed1&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
 </div>
 
-###
+---
 
-###
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anas-Majeed1&theme=dark&v=1" height="220" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anas-Majeed1&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-###
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anas-Majeed1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="146" alt="languages graph" /></div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anas-Majeed1&theme=dark&v=1" alt="Repositories Per Language"/><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anas-Majeed1&theme=dark&v=1" alt="Most Commit Language"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Majeed1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Majeed1&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
-###
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
