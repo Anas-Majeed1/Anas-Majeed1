@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Anas-Majeed1&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
-
 </div>
 
 ---
